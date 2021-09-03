@@ -28,11 +28,11 @@ Good luck!
 
 --------------------------------------
 
-How to use the script
+**How to use the script**
 Download the data, unzip the folder and rename it to data for convenience under linux and unix.
 Run the run_analysis.R script
 The script creates a tidy data set saved as tidy_data.txt in your working directory.
 
 
-The codebook
+**The codebook**
 Check out the codebook.md above to follow the transformations step.
